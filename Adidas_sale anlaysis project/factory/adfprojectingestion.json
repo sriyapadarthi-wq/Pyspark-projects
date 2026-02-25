@@ -1,0 +1,9 @@
+{
+	"name": "adfprojectingestion",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ee8151ae-fb82-4257-8f15-2de90b771baf",
+		"tenantId": "a3c74d12-d7ff-45b1-9c7f-9a300fc1ef70"
+	}
+}
